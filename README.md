@@ -1,27 +1,26 @@
 ![IMG_20210306_043544](https://user-images.githubusercontent.com/79139059/110176200-85515b00-7e35-11eb-97ab-d9f834b6964d.jpg)
 
-#　　　　　　**_*♛
-ZAIN CRACKER*_**
+#　　　　　　**_*♛ZAIN CRACKER♛*_**
 
-# *_COMMAND INSTALLERS
+# *_**COMMAND INSTALLERS**_*
 
-•$ ***Pkg Update && Pkg Upgrade
+•$ ***Pkg Update && Pkg Upgrade***
 
-•$ ***Pkg Install Python2
+•$ ***Pkg Install Python2***
 
-•$ ***Pkg Install Git
+•$ ***Pkg Install Git***
 
-•$ ***Pip2 Install Mechanize
+•$ ***Pip2 Install Mechanize***
 
-•$ ***Pip2 Install Requests
+•$ ***Pip2 Install Requests***
 
-•$ ***Pip2 Install bs4
+•$ ***Pip2 Install bs4***
 
-•$ ***Git clone https://github.com/zamxyz/zain
+•$ ***Git clone https://github.com/zamxyz/zain***
 
-•$ ***cd zain
+•$ ***cd zain***
 
-•$ ***python2 zain.py
+•$ ***python2 zain.py***
 
 
-***Dont Forget Follow My Github
+**_*Dont Forget Follow My Github*_**
