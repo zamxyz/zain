@@ -1,4 +1,4 @@
-#　　　　**_*♛ ZAIN CRACKER ♛*_**
+　　　**_*♛ ZAIN CRACKER ♛*_**
 ![IMG_20210306_043544](https://user-images.githubusercontent.com/79139059/110176200-85515b00-7e35-11eb-97ab-d9f834b6964d.jpg)
 
 # *COMMAND INSTALLERS*
